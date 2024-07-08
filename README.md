@@ -11,4 +11,4 @@
 - **_Este es un ejercicio en donde se ha realizado con Javascript en la cuál se explica de cómo crear un reloj sencillo utilizando dicho Javascript de la forma más sencilla posible._**
 - **_El reloj digital (más la fecha) que desarrollamos en este proyecto está pensado solamente para principiantes que quieren crear pequeños proyectos o aplicaciones para quienes quieran mejorar sus habilidades con Javascript!_**
 - **_Yo siempre pienso que la mejor manera de aprender a programar con este lenguaje (JavaScript) es creando aplicaciones._**
-- _Finalmente, antes de crear proyectos más grandes, debemos entender y crear proyectos/aplicaciones más pequeñas, como la que se desarrolla en este proyecto._
+- **_Finalmente, antes de crear proyectos más grandes, debemos entender y crear proyectos/aplicaciones más pequeñas, como la que se desarrolla en este proyecto._**
