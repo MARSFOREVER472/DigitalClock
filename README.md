@@ -7,6 +7,7 @@
 - **_Cómo programar un reloj digital en Javascript!_**
   
 - **_Ejercicios en Javascript SÓLO para principiantes!_**
+  
 - **_Cómo crear un Reloj Digital más la fecha actual utilizando Javascript._**
 - **_Cómo capturar la fecha y hora en Javascript!_**
 - **_Este es un ejercicio en donde se ha realizado con Javascript en la cuál se explica de cómo crear un reloj sencillo utilizando dicho Javascript de la forma más sencilla posible._**
