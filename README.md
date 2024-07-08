@@ -1,2 +1,2 @@
 # DigitalClock
-- **_Cómo crear un RELOJ DIGITAL usando Javascript._**
+- **_Cómo crear un RELOJ DIGITAL utilizando Javascript._**
