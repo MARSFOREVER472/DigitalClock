@@ -5,3 +5,4 @@
 ### **_Cómo crear un RELOJ DIGITAL utilizando Javascript._**
 
 - **_Cómo programar un reloj digital en Javascript!_**
+- Ejercicios en Javascript para principiantes!
