@@ -1,6 +1,6 @@
 # DigitalClock
 
-## **_APLICACIONES CREADAS EN JAVASCRIPT_**
+## **_APLICACIONES CREADAS MEDIANTE HERRAMIENTAS JAVASCRIPT_**
 
 ### **_Cómo crear un RELOJ DIGITAL utilizando Javascript._**
 
