@@ -13,7 +13,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-image: linear-gradient(90deg, tomato, gold);
+    background-image: linear-gradient(90deg, red, darkRed);
 }
 
 h3

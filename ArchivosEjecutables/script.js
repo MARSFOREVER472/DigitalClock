@@ -13,5 +13,25 @@ function addZero(x)
 
 setInterval(function()
 {
-    // EN INSTANTES...
+    let dateInstance = new Date();
+
+    // LE VAMOS A CONFIGURAR LAS HORAS, LOS MINUTOS Y SEGUNDOS...
+
+    let hour = dateInstance.getHours();
+    let minute = dateInstance.getMinutes();
+    let second = dateInstance.getSeconds();
+
+    hour = addZero(hour);
+    minute = addZero(minute);
+    second = addZero(second);
+
+    // LUEGO, CONFIGURAMOS LA FECHA ACTUAL...
+
+    let days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    let months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
+    let day = days[ dateInstance.getDay() ];
+    let today = dateInstance.getDate();
+    let month = months[ dateInstance.getMonth() ];
+    let fullYear = dateInstance.getFullYear();
 });
