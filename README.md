@@ -12,6 +12,8 @@
 
 - **_How to capture date and time in Javascript!_**
 
+- **_This is an exercise that has been carried out with Javascript in which it is explained how to create a simple clock using said Javascript in the simplest way possible._**
+
 **_Traducido del español:_**
 
 ## **_APLICACIONES CREADAS MEDIANTE HERRAMIENTAS UTILIZADAS EN JAVASCRIPT_**
