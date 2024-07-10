@@ -18,6 +18,8 @@
 
 - **_I always think that the best way to learn to program with this language (JavaScript) is by creating applications._**
 
+- **_Finally, before creating larger projects, we must understand and create smaller projects/applications, like the ones developed in this project._**
+
 **_Traducido del español:_**
 
 ## **_APLICACIONES CREADAS MEDIANTE HERRAMIENTAS UTILIZADAS EN JAVASCRIPT_**
