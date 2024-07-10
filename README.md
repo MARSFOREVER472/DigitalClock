@@ -8,6 +8,8 @@
  
 - **_Exercises in Javascript ONLY for beginners!_**
 
+- **_How to create a Digital Clock plus the current date using Javascript._**
+
 **_Traducido del español:_**
 
 ## **_APLICACIONES CREADAS MEDIANTE HERRAMIENTAS UTILIZADAS EN JAVASCRIPT_**
