@@ -16,6 +16,8 @@
 
 - **_The digital clock (plus the date) that we developed in this project is intended only for beginners who want to create small projects or applications for those who want to improve their Javascript skills!_**
 
+- **_I always think that the best way to learn to program with this language (JavaScript) is by creating applications._**
+
 **_Traducido del español:_**
 
 ## **_APLICACIONES CREADAS MEDIANTE HERRAMIENTAS UTILIZADAS EN JAVASCRIPT_**
