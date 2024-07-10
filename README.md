@@ -2,6 +2,8 @@
 
 ## **_APPLICATIONS CREATED USING TOOLS USED IN JAVASCRIPT_**
 
+**_Traducido del español:_**
+
 ## **_APLICACIONES CREADAS MEDIANTE HERRAMIENTAS UTILIZADAS EN JAVASCRIPT_**
 
 ### **_Cómo crear un RELOJ DIGITAL utilizando Javascript._**
