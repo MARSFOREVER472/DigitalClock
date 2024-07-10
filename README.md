@@ -14,6 +14,8 @@
 
 - **_This is an exercise that has been carried out with Javascript in which it is explained how to create a simple clock using said Javascript in the simplest way possible._**
 
+- **_The digital clock (plus the date) that we developed in this project is intended only for beginners who want to create small projects or applications for those who want to improve their Javascript skills!_**
+
 **_Traducido del español:_**
 
 ## **_APLICACIONES CREADAS MEDIANTE HERRAMIENTAS UTILIZADAS EN JAVASCRIPT_**
