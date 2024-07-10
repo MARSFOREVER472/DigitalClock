@@ -5,6 +5,8 @@
 ### **_How to create a DIGITAL CLOCK using Javascript._**
 
 - **_How to program a digital clock in Javascript!_**
+ 
+- **_Exercises in Javascript ONLY for beginners!_**
 
 **_Traducido del español:_**
 
